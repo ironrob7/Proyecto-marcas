@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monitores>
+        <monitor>
+            <nombre>Maite García</nombre>
+            <datos>Nadadora profesional y profesora de pilates, te puedes perder sus animadas clases.</datos>
+            <telefono>661987634</telefono>
+         
+        </monitor>
+        <monitor>
+            <nombre>Ismael Pérez</nombre>
+            <datos>Campeón de tenis y ping-pong, profesional y con opción de ser tu personal trainer.</datos>
+            <telefono>6478433298</telefono>
+
+        </monitor>
+        <monitor>
+            <nombre>Ainoa Ramírez</nombre>
+            <datos>Culturista profesional y profesora de body combat, también con opción de ser tu personal trainer.</datos>
+            <telefono>67634846329</telefono>
+
+        </monitor>
+        <monitor>
+            <nombre>Paco Pérez</nombre>
+            <datos>Experto en musculación con más de 20 años. Muy atento y con opción de ser tu personal trainer.</datos>
+            <telefono>85675632846</telefono>
+
+        </monitor>
+            <nombre>Aitor Ander</nombre>
+            <datos>Acróbata del circo del sol, maestro del yoga y experto en masajes deportivos y lesiones varias.</datos>
+            <telefono>76897543454</telefono>
+
+        </monitor>
+        <monitor>
+            <nombre>Ana Martínez</nombre>
+            <datos>Bailarina profesional de ballet clásico y monitora de aeróbic, clases para niños y para adultos</datos>
+            <telefono>8659387664</telefono>
+
+        </monitor>
+</monitores>
+
